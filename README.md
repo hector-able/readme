@@ -10,15 +10,15 @@ My job. Reading. My family.
 
 ## Working with me
 
-I ask a lot of questions and try to avoid [XY problems](http://xyproblem.info/).
-[I see the flaw in all things](http://blog.lusis.org/blog/2016/04/28/the-flaw-in-all-things/).
-The word "urgent" is very much low on my list of priorities.
-[Everything is a freaking DNS problem](https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html).
-I'm always happy to help. The best way to appreciate my work is to give more work.
+* I ask a lot of questions and try to avoid [XY problems](http://xyproblem.info/).
+* [I see the flaw in all things](http://blog.lusis.org/blog/2016/04/28/the-flaw-in-all-things/).
+* The word "urgent" is very much low on my list of priorities.
+* [Everything is a freaking DNS problem](https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html).
+* The best way to thank me for my work is to give more work. I'm always happy to help.
 
 ### Working Hours (Lockdown Edition)
 
-This year I will be almost unavailable during the mornings. Check my Google Calendar for details.
+Because of school, this year I will be almost unavailable during the mornings. Check my Google Calendar for details.
 
 ### Best way to communicate with me
 
