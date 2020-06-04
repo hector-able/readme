@@ -38,8 +38,8 @@ Reverse Engineering. Troubleshooting. Automation.
 
 ## TODO
 
-- [ ] To be aware of my privileges.
-- [ ] Sketchnoting.
+- [ ] Learning to be aware of my privileges.
+- [ ] Learning to Sketchnoting.
 
 ## A slogan for my life
 
