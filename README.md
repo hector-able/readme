@@ -11,7 +11,7 @@ My job. Reading. My family.
 ## Working with me
 
 * I ask a lot of questions and try to avoid [XY problems](http://xyproblem.info/).
-* [I see the flaws in all things](http://blog.lusis.org/images/posts/flaw-in-all-things/karnak-1.png), but we will work together to overcome them.
+* I see flaws in all things, but we will work together to overcome them.
 * The word ~urgent~ is very much low on my list of priorities.
 * If I'm not available, just remember: [Everything is a freaking DNS problem](https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html).
 * The best way to thank me for my work is to give more work. I'm always happy to help.
