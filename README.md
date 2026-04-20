@@ -15,6 +15,7 @@ My job. Reading. My family.
 * The word ~urgent~ is very much low on my list of priorities.
 * If I'm not available, just remember: [Everything is a freaking DNS problem](https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html).
 * The best way to thank me for my work is to give more work. I'm always happy to help.
+* Avoid just testing me _hi_
 
 ### Working Hours (Lockdown Edition)
 
