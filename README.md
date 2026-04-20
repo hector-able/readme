@@ -17,9 +17,9 @@ My job. Reading. My family.
 * The best way to thank me for my work is to give more work. I'm always happy to help.
 * Avoid just testing me _hi_
 
-### Working Hours (Lockdown Edition)
+### Working Hours
 
-Because of school, this year I will be almost unavailable during the mornings. Check my Google Calendar for details.
+Check my Google Calendar for details.
 
 ### Best way to communicate with me
 
