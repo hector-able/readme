@@ -27,7 +27,7 @@ Slack. Calls are ok, specially for pair programming or pair debugging.
 
 ### My setup
 
-A terminal. Vim. Wired over Wireless.
+A terminal. NeoVim. Wired over Wireless.
 
 ## What do I value?
 
